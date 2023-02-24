@@ -10,7 +10,7 @@ print('''
 ╚═════╝░░░░░░░╚═════╝░╚══════╝\n
 
 \x1b[0m
-B-52'S A TELEGRAM PHOTO SPAMMER FOR GROUP CHAT
+B-52'S A TELEGRAM PHOTO/Gif SPAMMER FOR GROUP CHAT
 Telegram : @TheShelbyOne 
 VERSION : 2.1
 ''')
